@@ -6,7 +6,7 @@
 
 **location : deagu korea**
 
-**school : yeungnam middle school**
+**school : **
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=victory8701)](https://solved.ac/victory8701)  
 
