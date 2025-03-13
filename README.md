@@ -1,7 +1,7 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A">
 
 ### Jang SungJu
-**Email : hanbe7220@gmail.com**
+**Email : hanbe7220@gmail.com**<br>
 **Location :  🇰🇷**
 
 
