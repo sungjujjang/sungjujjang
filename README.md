@@ -1,10 +1,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A">
 
-### jang sung ju
-
-**email : hanbe7220@gmail.com**
-
-**location : deagu korea**
+### Jang SungJu
+**Email : hanbe7220@gmail.com**
+**Location :  🇰🇷**
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=victory8701)](https://solved.ac/victory8701)  
