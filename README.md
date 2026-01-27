@@ -2,7 +2,7 @@
 <!--### Jang SungJu
 **Email : hanbe7220@gmail.com**<br>
 **Location :  🇰🇷**-->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=victory8701)](https://solved.ac/dsm20261112)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dsm20261112)](https://solved.ac/dsm20261112)  
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjujjang&show_icons=true&theme=radical)-->
 
