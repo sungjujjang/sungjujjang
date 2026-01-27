@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A"> <img alt="wakatime" src="https://wakatime.com/badge/user/sungjujjang.svg">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A"> <img alt="wakatime" src="https://wakatime.com/badge/user/e2b3e83a-db38-48c9-9dac-fb89eca59544.svg">
 <!--### Jang SungJu
 **Email : hanbe7220@gmail.com**<br>
 **Location :  🇰🇷**-->
