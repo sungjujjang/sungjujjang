@@ -2,16 +2,10 @@
 
 <br/>
 
-```
- ███████╗██╗   ██╗███╗   ██╗ ██████╗      ██╗██╗   ██╗
- ██╔════╝██║   ██║████╗  ██║██╔════╝      ██║██║   ██║
- ███████╗██║   ██║██╔██╗ ██║██║  ███╗     ██║██║   ██║
- ╚════██║██║   ██║██║╚██╗██║██║   ██║██   ██║██║   ██║
- ███████║╚██████╔╝██║ ╚████║╚██████╔╝╚█████╔╝╚██████╔╝
- ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚════╝  ╚═════╝
-```
+# SungJu
 
-<sub>**DevOps · Backend · Frontend · ML** — Studying at DSMHS</sub>
+<sub>**DevOps · Backend · Frontend · ML** — Studying at DSMHS</sub><br />
+<sub>**Email** — 20261112@dsm.hs.kr</sub>
 
 <br/>
 
@@ -66,14 +60,14 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,styledcomponents&perline=3" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,figma,bootstrap,tailwind,styledcomponents&perline=3" />
 
 </td>
 <td valign="top" width="25%">
 
 ### Etc
 
-<img src="https://skillicons.dev/icons?i=pytorch,androidstudio,flutter&perline=3" />
+<img src="https://skillicons.dev/icons?i=pytorch,androidstudio,flutter,blender,pr,arduino,raspberrypi&perline=3" />
 
 <br/>
 
@@ -93,7 +87,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,cs&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,cs&perline=6" />
 
 <br/><br/>
 
