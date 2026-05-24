@@ -1,11 +1,27 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sungjujjang"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A"> <img alt="wakatime" src="https://wakatime.com/badge/user/e2b3e83a-db38-48c9-9dac-fb89eca59544.svg">
-<!--### Jang SungJu
-**Email : hanbe7220@gmail.com**<br>
-**Location :  🇰🇷**-->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dsm20261112)](https://solved.ac/dsm20261112)    
-![꿱](https://render.gitanimals.org/farms/sungjujjang?2)  
+<div align="center">
 
+# 👋 Hi, I'm SungJu
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjujjang&show_icons=true&theme=radical)-->
+### Studying DevOPS in DSMHS 🇰🇷
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjujjang&langs_count=8)](https://github.com/sungjujjang/github-readme-stats)-->
+<br/>
+
+<img src="https://img.shields.io/github/followers/sungjujjang?style=for-the-badge&color=F54900&labelColor=1c1917" />
+<img src="https://img.shields.io/youtube/channel/views/UCH9QOF2Czyyq-sTCJy2kf2A?style=for-the-badge&color=ff0000&labelColor=1c1917" />
+<img src="https://wakatime.com/badge/user/e2b3e83a-db38-48c9-9dac-fb89eca59544.svg?style=for-the-badge" />
+
+<br/><br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsm20261112)](https://solved.ac/dsm20261112)
+
+<br/>
+
+<img width="70%" src="https://render.gitanimals.org/farms/sungjujjang?2" />
+
+<br/><br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sungjujjang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjujjang&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+
+</div>
