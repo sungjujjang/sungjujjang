@@ -2,8 +2,8 @@
 <!--### Jang SungJu
 **Email : hanbe7220@gmail.com**<br>
 **Location :  🇰🇷**-->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dsm20261112)](https://solved.ac/dsm20261112)  
-[![꿱](https://render.gitanimals.org/farms/sungjujjang?2)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dsm20261112)](https://solved.ac/dsm20261112)    
+![꿱](https://render.gitanimals.org/farms/sungjujjang?2)  
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjujjang&show_icons=true&theme=radical)-->
