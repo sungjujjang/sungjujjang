@@ -18,10 +18,4 @@
 
 <img width="70%" src="https://render.gitanimals.org/farms/sungjujjang?2" />
 
-<br/><br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sungjujjang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjujjang&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-
 </div>
